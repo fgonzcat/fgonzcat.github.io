@@ -13,6 +13,6 @@ theme: jekyll-theme-architect
 #theme: jekyll-theme-time machine
 
 title: Felipe Gonzalez's homepage
-logo: https://www.gnm.cl/fgonzalez/uploads/Main/felipe4-bg.png
+logo: __/images/felipe4-bg.png
 description: Felipe Gonzalez
 show_downloads: true
