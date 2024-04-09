@@ -15,4 +15,4 @@ theme: jekyll-theme-architect
 title: Felipe Gonzalez's homepage
 logo: __/images/felipe4-bg.png
 description: Felipe Gonzalez
-show_downloads: true
+#show_downloads: true
