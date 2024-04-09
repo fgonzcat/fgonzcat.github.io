@@ -13,7 +13,7 @@ theme: jekyll-theme-minimal
 #theme: jekyll-theme-time machine
 
 title: Felipe Gonzalez's [fgonzcat]
-logo: __/images/felipe4-bg.png
+logo: /__images/felipe4-bg.png
 description: "PhD in Physics"
 #show_downloads: true
 baseurl: ""
