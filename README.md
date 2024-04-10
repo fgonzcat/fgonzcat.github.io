@@ -5,9 +5,11 @@ Just my website. The theme is [thundergolfer/**junior-theme**](https://github.co
 
 ----
 
-### What it looks like
+## Projects
+### FPEOS
+[Publication](https://doi.org/10.1103/PhysRevE.103.013203)
 
-![homepage preview](homepage-preview.png)
+A database of equations of state derived from first principles for different materials and compounds. Allows the generation of of new EOS via the linear mixing approximation.
 
 ### What you can find there
 
@@ -16,7 +18,10 @@ Just my website. The theme is [thundergolfer/**junior-theme**](https://github.co
 
 ### Other places you can find me
 
-* LinkedIn @ [Felipe Gonzalez](https://www.linkedin.com/in/felipe-gonzalez/)
+* Web Of Science @  [Felipe Gonzalez][https://www.webofscience.com/wos/author/rid/G-3660-2014](https://www.webofscience.com/wos/author/rid/G-3660-2014)
+* LinkedIn @ [Felipe Gonzalez][https://www.linkedin.com/in/felipe-gonzalez/](https://www.linkedin.com/in/felipe-gonzalez-a6a96626/)
+
+
 
 ----
 
