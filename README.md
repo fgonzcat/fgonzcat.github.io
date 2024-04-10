@@ -1,7 +1,17 @@
 # fgonzcat.github.io
 Felipe Gonzalez GitHub website
 
-Just my website. The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/junior-theme)
+# Physicist
+
+### Technical skills: C++, Python, Bash, awk, Mathematica, OpenGL
+
+## Education
+- One
+- Two
+- Three
+
+## Work Experience
+**Physicist @ Berkeley**
 
 ----
 
