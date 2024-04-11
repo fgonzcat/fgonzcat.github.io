@@ -5,10 +5,10 @@
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-midnight
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-modernist
 #theme: jekyll-theme-slate
-theme: jekyll-theme-tactile
+#theme: jekyll-theme-tactile
 #theme: jekyll-theme-time-machine
 
 title: Felipe Gonzalez's [fgonzcat]
