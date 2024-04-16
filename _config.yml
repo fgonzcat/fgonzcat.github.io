@@ -5,76 +5,92 @@
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-midnight
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: jekyll-theme-modernist
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-tactile
 #theme: jekyll-theme-time-machine
 
+#title: Felipe Gonzalez's [fgonzcat]
+#logo: /assets/img/felipe4-bg.png
+#description:   PhD in Physics. A condensed matter physist investigating the the mysteries of Planetary Interiors.  Find my code sources in my GitHub profile!
+#   <br><br>  
+#   Email: f_gonzalez [at] berkeley [dot] edu
+# #<br><br>
+# # <img src="https://companieslogo.com/img/orig/CLVT-be02c47f.png" width="20"><a href="https://www.webofscience.com/wos/author/rid/G-3660-2014" target="_blank">Web of Science</a>
+# # <br><br>
+# # <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20"><a href="https://www.instagram.com/felipegonzalezcataldo/" target="_blank">@felipegonzalezcataldo</a>
+# #<br><br>
+# # <a href="https://www.linkedin.com/in/johnodonnell93">View LinkedIn Profile</a>   
+
 title: Felipe Gonzalez's [fgonzcat]
-logo: /assets/img/felipe4-bg.png
-description:   PhD in Physics. A condensed matter physist investigating the the mysteries of Planetary Interiors.  Find my code sources in my GitHub profile!
-   <br><br>  
-   Email: f_gonzalez [at] berkeley [dot] edu
- #<br><br>
- # <img src="https://companieslogo.com/img/orig/CLVT-be02c47f.png" width="20"><a href="https://www.webofscience.com/wos/author/rid/G-3660-2014" target="_blank">Web of Science</a>
- # <br><br>
- # <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20"><a href="https://www.instagram.com/felipegonzalezcataldo/" target="_blank">@felipegonzalezcataldo</a>
- #<br><br>
- # <a href="https://www.linkedin.com/in/johnodonnell93">View LinkedIn Profile</a>   
+logo: "/assets/img/felipe4-bg.png"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  A home page to expand on my data science projects. All source code can be found on my GitHub profile!
+  <br><br>  
+  Please Contact for Resume. 
+    <br><br>  
+    Email: johnodonnell123@gmail.com
+    <br><br>  
+    Phone: (936) 537 0533
+  <br><br>
+  <a href="https://www.linkedin.com/in/johnodonnell93">View LinkedIn Profile</a>   
+  
+theme: jekyll-theme-minimal
+classes: wide
 
 
-#show_downloads: true
-baseurl: ""
-url: "https://www.gnm.cl/fgonzalez"
-date_format: "%b %-d, %Y"
-
-# Optional features
-show_related_posts: True
-show_post_footers: True
-show_subscribe_cta: True
-show_social_icons: True
-ajaxify_contact_form: false
-enable_mathjax: false
-extended_fonts: false
-enable_anchorjs: true
-
-# Social icons
-github_username: fgonzcat
-stackoverflow_id:
-linkedin_username: felipe-gonzalez-a6a96626
-
-text:
-  pagination:
-    newer: "Newer"
-    older: "Older"
-  post:
-    updated: "Updated"
-    minute_read: "minute read"
-    related_posts: "More to read"
-  index:
-    coming_soon: "Coming soon..."
-  og_locale: "en_US"
-
-# Build settings
-markdown: kramdown
-redcarpet:
-  extensions: ["smart", "tables", "with_toc_data", "footnotes"]
-permalink: pretty
-paginate: 12
-paginate_path: "/blog/:num/"
-sass:
-  compressed: true
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
-
-collections_dir: collections
-collections:
-  reviews:
-    output: true
-  portfolio:
-    output: true
-
+##show_downloads: true
+#baseurl: ""
+#url: "https://www.gnm.cl/fgonzalez"
+#date_format: "%b %-d, %Y"
+#
+## Optional features
+#show_related_posts: True
+#show_post_footers: True
+#show_subscribe_cta: True
+#show_social_icons: True
+#ajaxify_contact_form: false
+#enable_mathjax: false
+#extended_fonts: false
+#enable_anchorjs: true
+#
+## Social icons
+#github_username: fgonzcat
+#stackoverflow_id:
+#linkedin_username: felipe-gonzalez-a6a96626
+#
+#text:
+#  pagination:
+#    newer: "Newer"
+#    older: "Older"
+#  post:
+#    updated: "Updated"
+#    minute_read: "minute read"
+#    related_posts: "More to read"
+#  index:
+#    coming_soon: "Coming soon..."
+#  og_locale: "en_US"
+#
+## Build settings
+#markdown: kramdown
+#redcarpet:
+#  extensions: ["smart", "tables", "with_toc_data", "footnotes"]
+#permalink: pretty
+#paginate: 12
+#paginate_path: "/blog/:num/"
+#sass:
+#  compressed: true
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+## https://github.com/jekyll/jekyll/issues/2938
+#exclude: [vendor]
+#
+#collections_dir: collections
+#collections:
+#  reviews:
+#    output: true
+#  portfolio:
+#    output: true
+#
