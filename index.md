@@ -1,56 +1,46 @@
-# Portfolio
+# Physicist
 
 ---
-## Videos
-[Ver más videos](/cienciaenarte/videos) 
+### Technical skills: C++, Python, Bash, awk, Mathematica, OpenGL
+
+## Professional Experience 
+[2021-present] Assistant Project Scientist, Department of Earth and Planetary Science, University of California, Berkeley (Burkhard Militzer's group)
+[2016-2021] Postdoctoral Fellow, Department of Earth and Planetary Science, University of California, Berkeley (Burkhard Militzer's group)
+
+## Education
+[2009-2015] Ph.D.  Facultad de Ciencias, Universidad de Chile (Physics)
+[2004-2009] B.S.   Facultad de Ciencias, Universidad de Chile (Physics)
+
+
+
+----
+## Projects
+[See more projects](/projects.md) 
 <div style="display: flex; justify-content: space-between;">
-    <a href="/cienciaenarte/videos"  style="width: 30%;">
-        <img src="images/pinte_a_Kepler.png?raw=true" style="width: 100%;" />
+    <a href="/projects.md"  style="width: 30%;">
+        <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
     </a>
-    <a href="/cienciaenarte/videos"  style="width: 30%;">
-        <img src="images/magma_campos_magneticos.png?raw=true" style="width: 100%;" />
+    <a href="/projects"  style="width: 30%;">
+        <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
     </a>
-    <a href="/cienciaenarte/videos" style="width: 30%;">
-        <img src="images/extincion_y_sorpresa.png?raw=true" style="width: 100%;" />
+    <a href="/projects" style="width: 30%;">
+        <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
     </a>
 </div>
 
----
-## Retratos
 
-[Ver más retratos](/cienciaenarte/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+----
+## Publications
 
----
-## Pinturas
-[Ver más pinturas](/cienciaenarte/sample_page)
-<img src="images/solvay.png?raw=true"/>
+### FPEOS
+[Publication](https://doi.org/10.1103/PhysRevE.103.013203)
 
----
-## Planetas
-[Ver más planetas/galaxias](/cienciaenarte/sample_page)
-<img src="images/planetas.jpg?raw=true"/>
-
-
----
-## Científicos
-[Ver más científicos](/cienciaenarte/sample_page)
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/sagan.png?raw=true" style="width: 30%;" />
-    <img src="images/Maxwell.jpg?raw=true" style="width: 30%;" />
-    <img src="images/Herschel.jpg?raw=true" style="width: 30%;" />
-</div>
+A database of equations of state derived from first principles for different materials and compounds. Allows the generation of of new EOS via the linear mixing approximation.
 
 
 
----
-### Links a mis redes
-
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20">](https://www.instagram.com/cienciaenarte/){:target="_blank"}  [Instagram: @cienciaenarte](https://www.instagram.com/cienciaenarte/){:target="_blank"}
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" width="20">](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ/){:target="_blank"}  [YouTube: @cienciaenarte](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ){:target="_blank"}
 
 
----
 
 
 
