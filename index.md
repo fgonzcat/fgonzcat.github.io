@@ -14,12 +14,25 @@
 [2004-2009] B.S.   Facultad de Ciencias, Universidad de Chile (Physics)
 
 
+----
+## Research
+<div style="display: flex; justify-content: space-between;">
+    <a href="/research"  style="width: 30%;">
+        <img src="images/SuperEarth_PRR.png" style="width: 100%;" />
+    </a>
+    <a href="/research"  style="width: 30%;">
+        <img src="images/Rock+Ice_Mixtures.png" style="width: 100%;" />
+    </a>
+    <a href="/research" style="width: 30%;">
+        <img src="images/Gonzalez_APJ_2014.png" style="width: 100%;" />
+    </a>
+</div>
 
 ----
 ## Projects
 [See more projects](/projects) 
 <div style="display: flex; justify-content: space-between;">
-    <a href="/projects.md"  style="width: 30%;">
+    <a href="/projects"  style="width: 30%;">
         <img src="images/example_VectorFields.gif" style="width: 100%;" />
     </a>
     <a href="/projects"  style="width: 30%;">
