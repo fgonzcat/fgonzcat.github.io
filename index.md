@@ -15,7 +15,7 @@
 
 ----
 ## Projects
-[See more projects](/projects.md) 
+[See more projects](/projects) 
 <div style="display: flex; justify-content: space-between;">
     <a href="/projects.md"  style="width: 30%;">
         <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
