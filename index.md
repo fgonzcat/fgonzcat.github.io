@@ -36,10 +36,10 @@
         <img src="images/example_VectorFields.gif" style="width: 100%;" />
     </a>
     <a href="/projects"  style="width: 30%;">
-        <img src="images/example_VectorFields.gif" style="width: 100%;" />
+        <img src="images/ex1_Mar-2-2024.gif" style="width: 100%;" />
     </a>
     <a href="/projects" style="width: 30%;">
-        <img src="images/example_VectorFields.gif" style="width: 100%;" />
+        <img src="images/quaternions.png" style="width: 100%;" />
     </a>
 </div>
 
