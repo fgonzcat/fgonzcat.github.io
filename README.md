@@ -14,8 +14,8 @@ Felipe Gonzalez GitHub [website](fgonzcat.github.io)
 
 ### Other places you can find me
 
-* Web Of Science @  [Felipe Gonzalez][https://www.webofscience.com/wos/author/rid/G-3660-2014](https://www.webofscience.com/wos/author/rid/G-3660-2014)
-* LinkedIn @ [Felipe Gonzalez][https://www.linkedin.com/in/felipe-gonzalez/](https://www.linkedin.com/in/felipe-gonzalez-a6a96626/)
+* Web Of Science @  [G-3660-2014](https://www.webofscience.com/wos/author/rid/G-3660-2014)
+* LinkedIn @ [felipe-gonzalez-a6a96626/](https://www.linkedin.com/in/felipe-gonzalez-a6a96626/)
 
 
 
