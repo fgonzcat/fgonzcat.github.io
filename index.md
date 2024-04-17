@@ -5,10 +5,12 @@
 
 ## Professional Experience 
 [2021-present] Assistant Project Scientist, Department of Earth and Planetary Science, University of California, Berkeley (Burkhard Militzer's group)
+
 [2016-2021] Postdoctoral Fellow, Department of Earth and Planetary Science, University of California, Berkeley (Burkhard Militzer's group)
 
 ## Education
 [2009-2015] Ph.D.  Facultad de Ciencias, Universidad de Chile (Physics)
+
 [2004-2009] B.S.   Facultad de Ciencias, Universidad de Chile (Physics)
 
 
@@ -18,13 +20,13 @@
 [See more projects](/projects) 
 <div style="display: flex; justify-content: space-between;">
     <a href="/projects.md"  style="width: 30%;">
-        <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
+        <img src="images/example_VectorFields.gif" style="width: 100%;" />
     </a>
     <a href="/projects"  style="width: 30%;">
-        <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
+        <img src="images/example_VectorFields.gif" style="width: 100%;" />
     </a>
     <a href="/projects" style="width: 30%;">
-        <img src="https://github.com/fgonzcat/VectorFields/blob/main/example.gif" style="width: 100%;" />
+        <img src="images/example_VectorFields.gif" style="width: 100%;" />
     </a>
 </div>
 
