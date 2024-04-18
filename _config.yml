@@ -1,19 +1,37 @@
-# Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#theme: jekyll-theme-architect
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-dinky
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-leap-day
+#theme: jekyll-theme-merlot
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-minimal
+#theme: jekyll-theme-modernist
+#theme: jekyll-theme-slate
+#theme: jekyll-theme-tactile
+#theme: jekyll-theme-time-machine
+
+
+title: Felipe Gonzalez [fgonzcat]
+logo: "/images/felipe4-bg.png"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  PhD in Physics.
+  <br><br>
+  A condensed matter physist investigating the the mysteries of Planetary Interiors.  Find my code sources in my GitHub profile!
+  <br><br>     Email: f_gonzalez@berkeley.edu <br><br>    <img src="https://companieslogo.com/img/orig/CLVT-be02c47f.png" width="20"><a href="https://www.webofscience.com/wos/author/rid/G-3660-2014" target="_blank">Web of Science</a>
+  <br>     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" width="20"><a href="https://orcid.org/0000-0003-2709-7271" target="_blank">@felipegonzalezcataldo</a>
+   <br><br>
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a Software Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Felipe Gonzalez
+user_description: I'm a physicist from Chile, My focus lies in the intersection between condensed matter under extreme conditions and planetary science, to unravel the mysteries of planetary interiors. I'm particularly interested in understanding how the properties of various minerals change in these extraordinary environments and what this can tell us about planetary formation and evolution. By comprehending these alterations, we can develop precise models of planetary compositions and unveil their elemental compositions.
+user_title: Physicist
+email: f_gonzalez@berkeley.edu 
 # twitter_username: lorem_ipsum
-instagram_username: mauriciourraco7
-facebook_username: mauricio.urraco
-linkedin_username: murraco
-github_username:  murraco
+instagram_username: felipegonzalezcataldo
+facebook_username: fgonzalezcataldo
+linkedin_username: felipe-gonzalez-a6a96626
+github_username:  fgonzcat
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
