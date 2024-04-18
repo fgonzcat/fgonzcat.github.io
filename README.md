@@ -1,5 +1,5 @@
 # Felipe Gonzalez, Physicist 
-Felipe Gonzalez GitHub [website](fgonzcat.github.io)
+Felipe Gonzalez GitHub [website](https://fgonzcat.github.io)
 
 ----
 ### Technical skills: C++, Python, Bash, awk, Mathematica, OpenGL
