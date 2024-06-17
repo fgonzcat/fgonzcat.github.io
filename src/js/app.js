@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "line_linked": {
-        "enable": false,
+        "enable": true,
         "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,
@@ -76,8 +76,8 @@ document.addEventListener("DOMContentLoaded", function () {
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
-          "mode": "bubble"
+          "enable": true,
+          "mode": "grab"
         },
         "onclick": {
           "enable": false,
