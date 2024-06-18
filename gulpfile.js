@@ -86,7 +86,7 @@ gulp.task('watch', function() {
 	gulp.watch('src/js/**/*.js', ['js']);
 	gulp.watch('src/fonts/**/*.{tff,woff,woff2}', ['fonts']);
 	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
-	gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
+	gulp.watch(['*.html', '_includes/*.html', '_includes/*.md', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
 
 /**
