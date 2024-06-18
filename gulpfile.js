@@ -77,6 +77,10 @@ gulp.task('js', function(){
 		.pipe(gulp.dest('assets/js/'))
 });
 
+/**
+ * Watch stylus files for changes & recompile
+ * Watch html/md files, run jekyll & reload BrowserSync
+ */
 gulp.task('watch', function() {
 	gulp.watch('src/styles/**/*.scss', ['sass', 'jekyll-rebuild']);
 	gulp.watch('src/js/**/*.js', ['js']);
@@ -85,4 +89,8 @@ gulp.task('watch', function() {
 	gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
 
+/**
+ * Default task, running just `gulp` will compile the sass,
+ * compile the jekyll site, launch BrowserSync & watch files.
+ */
 gulp.task('default', ['js', 'sass', 'fonts', 'browser-sync', 'watch']);
